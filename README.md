@@ -2,7 +2,7 @@
 
 ## Requirements
 - [Hugo Extended](https://gohugo.io/getting-started/installing)
-- [Sass]()
+- [Sass](https://sass-lang.com/install)
 
 ## Contributing
 - Please follow commit messages outlined under the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) standard
