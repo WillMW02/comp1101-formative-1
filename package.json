@@ -1,0 +1,10 @@
+{
+  "name": "comp1101-formative-1",
+  "private": true,
+  "description": "Formative assessment 1 for module COMP1101 - Programming (Black)",
+  "scripts": {
+    "start": "hugo server",
+    "build": "hugo",
+    "server": "hugo server -p 1600"
+  }
+}

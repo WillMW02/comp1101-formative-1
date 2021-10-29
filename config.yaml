@@ -1,0 +1,5 @@
+baseURL: https://cs.tescobank.pro
+languageCOde: en-GB
+title: COMP1101
+pluralizelisttitles: false # Bug fix for "Blog" in <title>
+buildFuture: true # Show drafts
