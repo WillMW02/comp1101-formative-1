@@ -1,0 +1,5 @@
+{{ partial "meta.html" . }}
+<body class="default {{ with .Params.class }}{{ . }}{{ end }}">
+{{ .Content }}
+<div class="padd-xl"></div>
+{{ partial "scripts.html" . }}
