@@ -15,3 +15,4 @@ The code in this repository is protected by the [Creative Commons Zero v1.0 Univ
 ## Contributors
 - William Maltby-Wehner ([WillMW02](https://github.com/WillMW02))
 - Jacob Straw ([Jacob-Straw](https://github.com/Jacob-Straw))
+- Guillaume Macneil ([MetallicSquid](https://github.com/MetallicSquid))
