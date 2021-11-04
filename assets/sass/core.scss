@@ -1,1 +1,34 @@
-@import "www";
+// Colours
+$primary: DimGrey;
+$background: HoneyDew;
+$link: MediumSeaGreen;
+$emphasis: Tomato;
+$emphasis2: Crimson;
+
+body {
+  background-color: $background;
+  color: $primary;
+  font-family: Roboto, sans-serif;
+}
+
+a {
+  color: $link;
+}
+
+a:hover {
+  color: $link;
+  font-weight: bold;
+}
+
+h3 {
+  color: $emphasis;
+}
+
+figcaption {
+  font-family: Monospaced, monospace;
+  font-size: small;
+}
+
+b {
+  color: $emphasis2
+}
