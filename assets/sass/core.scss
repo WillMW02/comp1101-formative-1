@@ -5,10 +5,12 @@ $link: MediumSeaGreen;
 $emphasis: Tomato;
 $emphasis2: Crimson;
 
+
 body {
   background-color: $background;
   color: $primary;
   font-family: Roboto, sans-serif;
+  
 }
 
 a {
@@ -31,4 +33,7 @@ figcaption {
 
 b {
   color: $emphasis2
+}
+
+.list-group-item {background-color: $background;
 }
