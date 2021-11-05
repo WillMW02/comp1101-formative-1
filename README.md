@@ -16,4 +16,4 @@ The code in this repository is protected by the [Creative Commons Zero v1.0 Univ
 - William Maltby-Wehner ([WillMW02](https://github.com/WillMW02))
 - Jacob Straw ([Jacob-Straw](https://github.com/Jacob-Straw))
 - Guillaume Macneil ([MetallicSquid](https://github.com/MetallicSquid))
-- Shun Hang Nicholas Chan ([NicholasChan67](https://github.com/NicholasChan67)(https://www.linkedin.com/in/shun-hang-nicholas-chan-b05715225/))
+- Shun Hang Nicholas Chan ([NicholasChan67](https://github.com/NicholasChan67)) 
