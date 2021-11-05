@@ -32,8 +32,15 @@ figcaption {
 }
 
 b {
-  color: $emphasis2
+  color: $emphasis2;
 }
 
-.list-group-item {background-color: $background;
+.list-group-item {
+  background-color: $background;
+}
+
+.author {
+  b {
+    color: $emphasis;
+  }
 }
